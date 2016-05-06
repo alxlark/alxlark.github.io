@@ -1,2 +1,3 @@
-# alxlark.github.io
-Simple page on github
+#Alx Lark GitHub Page 
+
+[alxlark.github.io](http://alxlark.github.io)
